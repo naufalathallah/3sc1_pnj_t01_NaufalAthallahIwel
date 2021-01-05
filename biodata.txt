@@ -1,3 +1,4 @@
 No. Reg	: 1920010174
 Nama	: Naufal Athallah Iwel
 Jurusan	: Software Engineer
+Angkatan: 2019
